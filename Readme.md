@@ -6,4 +6,5 @@
   -wallpaper3.jpg
 
   **Next** to use the program simpily open the wallpaper.txt and at the top change "$num = x" to whatever wallpaper you want to use (for exsample, if i want to use "wallpaper1" would change "$num = x" to "$num = 1"
+  
   **Next** open the PS portal.bat file or open powershell. Then copy the entire content of the txt file (ctrl + A) and paste it into the open Termanal, once it has copied sicsessfuly just press enter and your wallpaper should change after a couple of seconds.
