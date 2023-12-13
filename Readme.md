@@ -1,7 +1,7 @@
 # Wallpaper changer
   This is a powershell script which changes your wallpaper, instead of using the "Powershell portal" you can also just open Powershell on your computer manually.
 ## installation
-  **First** download all files into a folder on your computer. Once you have done that rename/download your wallpaper('s) to the format "wallpaper<x>.jpg" where x is the wallpaper number, eg:
+  **First** download all files into a folder on your computer. Once you have done that rename/download your wallpaper('s) to the format "wallpaperX.jpg" where x is the wallpaper number, eg:
   -wallpaper1.jpg
   -wallpaper3.jpg
 
